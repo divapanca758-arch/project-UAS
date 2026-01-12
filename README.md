@@ -22,7 +22,7 @@
 <img width="627" height="213" alt="Screenshot 2026-01-12 131154" src="https://github.com/user-attachments/assets/9b0cee7f-53da-4538-b45c-c2b45a9d43c1" />
 
 # Vidio Dokumentasi
-Link vidio dokumentasi dan demo program :
+Link vidio dokumentasi dan demo program : https://youtu.be/qM2xsfXrCgM?si=gUiGkfq4xHOIXg32
 
 # Kesimpulan
 Program ini berhasil menerapkan konsep OOP dan modular programming dengan baik. Program mampu menerima input, memvalidasi data, memproses nilai, dan menampilkan hasil dalam bentuk tabel yang rapi di terminal.
